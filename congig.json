@@ -1,0 +1,7 @@
+{
+    "API_KEY": "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",
+    "MODEL_NAME": "davinci:ft-personal-2023-03-24-15-54-54",
+    "PROMPT_SINGLE": "Answer the question as truthfully as possible using the provided text with confidence score, and if the answer is not contained within the text below, say 'I don't know' ",
+    "PROMPT_MULTIPLE": "from this python list of answers. you can exclude 'I don't know' and combine multiple answers if needed. You need not combine many of the answers as most of them will be false, here is answer list:"
+
+}
